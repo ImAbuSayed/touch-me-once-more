@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/touch-me-once-more/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Touch Me Once More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/touch-me-once-more/) |
+| **Get License** | [Request Licensing for Touch Me Once More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/touch-me-once-more/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Come a little closer to the firelight
+> Let me read the secrets in your eyes tonight
+> Leave the heavy world outside the door
+> Baby, just touch me once more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
